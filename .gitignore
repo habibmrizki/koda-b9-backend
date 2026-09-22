@@ -1,0 +1,6 @@
+*.http
+
+.air.toml
+tmp
+test.http
+text.txt
